@@ -1,5 +1,21 @@
 ﻿@page "/"
+@using System.Text.Json;
+@using urele.Client.Helper;
+@inject HttpClient Http
 
 <PageTitle>Index</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Sonuç: @result</h1>
+@code{
+	string result = "Gelmedi";
+	protected override async Task OnInitializedAsync()
+	{
+		//string text = JsonSerializer.Serialize(Http);
+		//var y = await RunHttp.Get<cs>("Deneme");
+	}
+	public class cs
+	{
+		public string name { get; set; } = String.Empty;
+		public string surname { get; set; } = String.Empty;
+	}
+}

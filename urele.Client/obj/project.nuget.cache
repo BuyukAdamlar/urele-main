@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxS7BRFYFFe1elofPminjLznNLcjeM+rspuXDY7h+GqRRr3xakhrKF2v4ocq1my8pxBKZCXtWjHnbPgG3beMRQ==",
+  "dgSpecHash": "fAa4hBCnrbCNYeJL/lXC1uAvRgPv/fD8qTBHSKlhCSQaaoFXKvrw54BrhTOBhNUmKa6+D8kKiWndp73SQQRANA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CASPER\\source\\repos\\BuyukAdamlar\\urele-main\\urele.Client\\urele.Client.csproj",
+  "projectFilePath": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\urele.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CASPER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\Users\\CASPER\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
