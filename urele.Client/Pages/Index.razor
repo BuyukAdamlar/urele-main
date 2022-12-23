@@ -1,21 +1,16 @@
 ﻿@page "/"
-@using System.Text.Json;
-@using urele.Client.Helper;
-@inject HttpClient Http
 
-<PageTitle>Index</PageTitle>
+<div style="text-align:center; margin-top: auto;">
+    <a href="index.html"><img src="assets/img/yeniler/link.png" width="120px" height="120px"></a>
+    <a href="index.html"><img src="assets/img/yeniler/özel_link.png" width="120px" height="120px"></a>
+    <a href="index.html"><img src="assets/img/yeniler/whatsapp.png" width="120px" height="120px"></a>
+    <a href="index.html"><img src="assets/img/yeniler/telefon.png" width="120px" height="120px"></a>
+    <a href="index.html"><img src="assets/img/yeniler/mail.png" width="120px" height="120px"></a>
+    <a href="index.html"><img src="assets/img/yeniler/sms.png" width="120px" height="120px"></a>
+</div>
+<input type="text">
+<button id="button-fıstık" style="margin-bottom: auto;">Kısalt</button>
 
-<h1>Sonuç: @result</h1>
 @code{
-	string result = "Gelmedi";
-	protected override async Task OnInitializedAsync()
-	{
-		//string text = JsonSerializer.Serialize(Http);
-		//var y = await RunHttp.Get<cs>("Deneme");
-	}
-	public class cs
-	{
-		public string name { get; set; } = String.Empty;
-		public string surname { get; set; } = String.Empty;
-	}
+	
 }

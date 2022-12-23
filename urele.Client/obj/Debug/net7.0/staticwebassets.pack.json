@@ -1,80 +1,748 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\urele.Client.styles.css",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\obj\\Debug\\net7.0\\build-gz\\6fS34x7P.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\urele.Client.styles.css",
       "PackagePath": "staticwebassets\\urele.Client.styles.css"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\css\\style.css",
+      "PackagePath": "staticwebassets\\Log\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Log\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\Eurosoft\\d481dc6e148580970785106757ac6781.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\Log\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\Log\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\Log\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\js\\main.js",
+      "PackagePath": "staticwebassets\\Log\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\common\\extend.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\common\\extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\common\\fonts.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\common\\fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\common\\global.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\common\\global.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\common\\minxi.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\common\\minxi.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\common\\variables.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\common\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\layouts\\main.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\layouts\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\layouts\\responsive.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\layouts\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Log\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Log\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\Log\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Log\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\img\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\axel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\axel.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user4.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user5.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user6.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\gallery\\user7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\user7.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\icons\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\icons\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\icons\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\icons\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\illustrations\\hero-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero-3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\illustrations\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\illustrations\\hero2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero2.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\illustrations\\hero3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\hero3.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\illustrations\\vector.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\vector.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\logo_full.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo_full.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\link.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\linkegit.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\linkegit.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\mail.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\sms.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\sms.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\telefon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\telefon.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\whatsapp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\img\\yeniler\\özel_link.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yeniler\\özel_link.png"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\video\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\video\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\video\\beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\video\\beach.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.mp4"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\assets\\video\\beach.webm",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.webm"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\index.html",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\CASPER\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "C:\\Users\\CASPER\\source\\repos\\BuyukAdamlar\\urele-main\\urele.Client\\obj\\Debug\\net7.0\\build-gz\\E7ViEZNx.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\@popperjs\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\@popperjs\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dalak\\Source\\Repos\\BuyukAdamlar\\urele-main\\urele.Client\\wwwroot\\vendors\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\swiper\\swiper-bundle.min.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.urele.Client.props",
