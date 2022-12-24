@@ -47,8 +47,9 @@
 				<div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
 					<ul class="navbar-nav mr-auto mt-3 mt-xl-0">
 						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/mylinks">Linklerim</a></li>
-						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="#rea">Profil</a></li>
+						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/hesabim">Profil</a></li>
 						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/statistics">İstatistikler</a></li>
+						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/grup">Gruplar</a></li>
 						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="#rea">Tanıtım</a></li>
 						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/preview">Önizle</a></li>
 						<li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/login">Giriş Yap / Üye Ol</a></li>
@@ -57,6 +58,27 @@
 				</div>
 			</div>
 		</nav>
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+      <nav class="navbar navbar-expand-xl navbar-light fixed-top px-0 pb-0 mb-2" id="navbar" data-navbar-darken-on-scroll="white">
+        <div class="container-fluid align-items-center py-2"><a class="navbar-brand flex-center" href="/"><img class="logo" src="assets/img/logo_full.png" alt="open enterprise" /></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto mt-3 mt-xl-0">
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/mylinks">Linklerim</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/hesabim">Profil</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/statistics">İstatistikler</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/grup">Gruplar</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="#rea">Tanıtım</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/preview">Önizle</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="/login">Giriş Yap / Üye Ol</a></li>
+              <li class="nav-item ps-0 ps-xl-4 ms-2"><a class="nav-link fs-2 fw-medium" href="#rea">Çıkış Yap</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
 
 
 		<!-- ============================================-->
@@ -69,6 +91,12 @@
 				</div>
 			</div>
 			<!-- end of .container-->
+        <div class="container-xxl">
+          <div class="row align-items-center min-vh-lg-100" style="overflow-x: auto; padding:10px">
+            @Body
+          </div>
+        </div>
+        <!-- end of .container-->
 
 		</section>
 		<!-- <section> close ============================-->
