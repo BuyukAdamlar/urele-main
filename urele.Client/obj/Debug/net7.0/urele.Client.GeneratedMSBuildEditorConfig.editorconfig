@@ -24,12 +24,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Edit_Group.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdF9Hcm91cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Groups.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Invitation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52aXRhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Join.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9pbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dalak/Source/Repos/BuyukAdamlar/urele-main/urele.Client/Pages/Login.razor]

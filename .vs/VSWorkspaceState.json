@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\urele.Client",
+    "\\urele.Client\\Pages",
+    "\\urele.Client\\wwwroot"
   ],
+  "SelectedNode": "\\urele.Client\\Pages\\Groups.razor",
   "PreviewInSolutionExplorer": false
 }

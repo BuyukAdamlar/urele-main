@@ -464,6 +464,15 @@ button {
   color: #ffffff;
 }
 
+#button-fıstık-ufak {
+    font-size: 30px;
+    margin-top: 118px;
+    border-color: #5cd1bb;
+    border-radius: 999px;
+    background-color: #5cd1bb;
+    color: #ffffff;
+}
+
 #button-green {
   border-color: #EBF6EB;
   width: 113px;
@@ -492,6 +501,15 @@ button {
     border-color: #ffcdcd;
     width: 113px;
     border-radius: 12px;
+    background-color: #ffcdcd;
+    color: #da3316;
+}
+
+#button-red-orta {
+    font-size: 30px;
+    margin-top: 118px;
+    border-color: #ffcdcd;
+    border-radius: 999px;
     background-color: #ffcdcd;
     color: #da3316;
 }
@@ -2726,13 +2744,13 @@ progress {
   display: block;
   width: 100%;
   padding: 0.56rem 0.8rem;
-  font-size: 1rem;
+  font-size: 2.5rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #66645E;
-  background-color: #fff;
+  color: #fff;
+  background-color: #5cd1bb;
   background-clip: padding-box;
-  border: 1px solid #D7D6DA;
+  border: 1.5px solid #000;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -2761,8 +2779,8 @@ progress {
 }
 
 .form-control:focus {
-  color: #66645E;
-  background-color: #fff;
+  color: #fff;
+  background-color: #5cd1bb;
   border-color: #8f9db1;
   outline: 0;
   -webkit-box-shadow: 0 0 0 0.25rem rgba(31, 58, 99, 0.25);

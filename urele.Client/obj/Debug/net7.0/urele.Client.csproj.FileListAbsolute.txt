@@ -1633,8 +1633,6 @@ C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\svpynO+K.gz
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\UJIQBYGe.gz
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\wJjHiess.gz
-C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\x6P6dxZV.gz
-C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\pGMcRlJ8.gz
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\6fS34x7P.gz
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\blazor.boot.json
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\staticwebassets\msbuild.urele.Client.Microsoft.AspNetCore.StaticWebAssets.props
@@ -1652,3 +1650,5 @@ C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\refint\urele.Client.dll
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\urele.Client.pdb
 C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\ref\urele.Client.dll
+C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\x6P6dxZV.gz
+C:\Users\dalak\Source\Repos\BuyukAdamlar\urele-main\urele.Client\obj\Debug\net7.0\build-gz\pGMcRlJ8.gz
