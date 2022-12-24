@@ -76,6 +76,12 @@ body {
   font-size: 48px;
 }
 
+#p-istatistik {
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+}
+
 #p-istatistik-left {
   text-align: center;
   font-size: 40px;
@@ -480,6 +486,14 @@ button {
   border-radius: 12px;
   background-color: #EDEDFE;
   color: #605DEC;
+}
+
+#button-red {
+    border-color: #ffcdcd;
+    width: 113px;
+    border-radius: 12px;
+    background-color: #ffcdcd;
+    color: #da3316;
 }
 
 button:focus:not(:focus-visible) {
