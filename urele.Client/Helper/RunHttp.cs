@@ -51,22 +51,24 @@ namespace urele.Client.Helper
 		}
 		public static async Task<HttpResult<T>> Post<T>(string url, params object[] content)
 		{
-			HttpContent hc;
+			HttpResponseMessage rm;
 			if (content.Length == 1)
 			{
-				hc = new StringContent("");
-			}
-			else if (content.Length == 1)
-			{
-				hc = new StringContent(JsonSerializer.Serialize(content[0]));
+				rm = await Http.PostAsJsonAsync(url, content[0]);
 			}
 			else
 			{
-				hc = new StringContent(JsonSerializer.Serialize(content));
+				rm = await Http.PostAsJsonAsync(url, content);
 			}
-			var response = await Http.PostAsync(url, hc);
-			var result = await response.Content.ReadFromJsonAsync<T>();
-			return getResult(result, response);
+			try
+			{
+				var result = await rm.Content.ReadFromJsonAsync<T>();
+				return getResult(result, rm);
+			}
+			catch (Exception ex)
+			{
+				return getResult<T>(rm);
+			}
 		}
 		public static async Task<HttpResult<string>> PostString(string url, params object[] content)
 		{
@@ -198,6 +200,14 @@ namespace urele.Client.Helper
 				Result = result,
 				status = resmas.StatusCode,
 				isSuccess = resmas.IsSuccessStatusCode,
+			};
+		}
+		private static HttpResult<T> getResult<T>(HttpResponseMessage? resmas)
+		{
+			return new HttpResult<T>()
+			{
+				status = resmas.StatusCode,
+				isSuccess = resmas.IsSuccessStatusCode
 			};
 		}
 	}
