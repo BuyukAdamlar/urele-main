@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\urele.Client",
-    "\\urele.Client\\Pages",
-    "\\urele.Client\\wwwroot"
+    "\\urele.Client\\Helper"
   ],
-  "SelectedNode": "\\urele.Client\\Pages\\Groups.razor",
+  "SelectedNode": "\\urele.Client\\Helper\\RunHttp.cs",
   "PreviewInSolutionExplorer": false
 }
