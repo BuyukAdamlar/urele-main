@@ -43,7 +43,81 @@
         </section>
     </div>
 
+
+@inject IJSRuntime JS
+@inject ILocalStorageService localStore
+@inject NavigationManager navman
 @code {
-    [Parameter]
-    public string login { get; set; }
+	bool rememberme = true;
+	string id = "";
+	string pass = "";
+	string errormessage = "";
+	bool isdisabled = false;
+
+	protected async Task togglePassword()
+	{
+		try
+		{
+			await JS.InvokeVoidAsync("togglePassword");
+		}
+		catch (Exception ex)
+		{
+		}
+	}
+
+	protected override async Task<Task> OnAfterRenderAsync(bool firstRender)
+	{
+		if (firstRender)
+		{
+			try
+			{
+				string token = await localStore.GetItemAsStringAsync("token");
+				if (token != null && token != String.Empty && token.Trim() != "")
+				{
+					var res = await RunHttp.Post<TokenEntity>("User/login/token", new { token = token });
+					if (res.isSuccess)
+					{
+						navman.NavigateTo("/mylinks");
+					}
+				}
+			}
+			catch
+			{
+
+			}
+		}
+		return base.OnAfterRenderAsync(firstRender);
+
+	}
+
+	protected async Task login()
+	{
+		isdisabled = true;
+		errormessage = "";
+		var res = await RunHttp.Post<TokenEntity>("https://apiurele.azurewebsites.net/User/login", new LoginModel
+			{
+				id = this.id,
+				password = this.pass
+			});
+		if (res.isSuccess)
+		{
+			await localStore.ClearAsync();
+			await localStore.SetItemAsStringAsync("token", res.Result.token);
+			navman.NavigateTo("/mylinks");
+		}
+		else if (res.status == System.Net.HttpStatusCode.Conflict)
+		{
+			errormessage = "Lütfen mailinize gönderilen link ile hesabınızı aktifleştiriniz!";
+		}
+		else if (res.status == System.Net.HttpStatusCode.Unauthorized)
+		{
+			errormessage = "Giriş bilgileriniz hatalı. Lütfen kontrol ediniz.";
+		}
+		else
+		{
+			errormessage = "Hatalı giriş, tekrar deneyiniz.";
+		}
+		isdisabled = false;
+		await InvokeAsync(StateHasChanged);
+	}
 }
